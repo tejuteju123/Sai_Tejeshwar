@@ -1,0 +1,280 @@
+Uri: https://akashvarun.com/
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\index.htm
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\css.css
+Content Type: text/css
+
+Uri: https://akashvarun.com/assets/vendor/bootstrap/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\vendor\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://akashvarun.com/assets/vendor/icofont/icofont.min.css
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\vendor\icofont\icofont.min.css
+Content Type: text/css
+
+Uri: https://akashvarun.com/assets/vendor/boxicons/css/boxicons.min.css
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\vendor\boxicons\css\boxicons.min.css
+Content Type: text/css
+
+Uri: https://akashvarun.com/assets/vendor/venobox/venobox.css
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\vendor\venobox\venobox.css
+Content Type: text/css
+
+Uri: https://akashvarun.com/assets/vendor/owl.carousel/assets/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\vendor\owl.carousel\assets\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://akashvarun.com/assets/vendor/aos/aos.css
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\vendor\aos\aos.css
+Content Type: text/css
+
+Uri: https://akashvarun.com/assets/css/style.css
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\css\style.css
+Content Type: text/css
+
+Uri: https://akashvarun.com/animouse.css
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\animouse.css
+Content Type: text/css
+
+Uri: https://akashvarun.com/index.html
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\index.html
+Content Type: text/html
+
+Uri: https://twitter.com/akash9varun
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\akash9varun.html
+Content Type: text/html
+
+Uri: https://github.com/Akash9varun
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\Akash9varun-1.html
+Content Type: text/html
+
+Uri: https://akashvarunp.medium.com/
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\index-1.htm
+Content Type: text/html
+
+Uri: https://akashvarun.com/assets/img/portfolio/1.jpg
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\img\portfolio\1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.credly.com/badges/945e8117-64f4-42f9-a0e1-8015889e59e4?source=linked_in_profile
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\badges\945e8117-64f4-42f9-a0e1-8015889e59e4.html
+Content Type: text/html
+
+Uri: https://akashvarun.com/assets/img/portfolio/2.png
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\img\portfolio\2.png
+Content Type: image/png
+
+Uri: https://www.coursera.org/account/accomplishments/certificate/FBFJZFT6H35B
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\account\accomplishments\certificate\FBFJZFT6H35B.html
+Content Type: text/html
+
+Uri: https://akashvarun.com/assets/img/portfolio/3.png
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\img\portfolio\3.png
+Content Type: image/png
+
+Uri: https://www.coursera.org/account/accomplishments/certificate/7EF7BAHW5CQR
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\account\accomplishments\certificate\7EF7BAHW5CQR.html
+Content Type: text/html
+
+Uri: https://akashvarun.com/assets/img/portfolio/4.png
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\img\portfolio\4.png
+Content Type: image/png
+
+Uri: https://www.coursera.org/account/accomplishments/specialization/certificate/FYABR4VEXXQ2
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\account\accomplishments\specialization\certificate\FYABR4VEXXQ2.html
+Content Type: text/html
+
+Uri: https://akashvarun.com/assets/img/portfolio/5.png
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\img\portfolio\5.png
+Content Type: image/png
+
+Uri: https://www.coursera.org/account/accomplishments/specialization/certificate/VQ4HRVKR6UZG
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\account\accomplishments\specialization\certificate\VQ4HRVKR6UZG.html
+Content Type: text/html
+
+Uri: https://akashvarun.com/assets/img/portfolio/6.png
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\img\portfolio\6.png
+Content Type: image/png
+
+Uri: https://www.coursera.org/account/accomplishments/certificate/6Z9NPQLX9UL9
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\account\accomplishments\certificate\6Z9NPQLX9UL9.html
+Content Type: text/html
+
+Uri: https://akashvarun.com/assets/img/portfolio/7.png
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\img\portfolio\7.png
+Content Type: image/png
+
+Uri: https://drive.google.com/file/d/1r3vEVXC02LfCZjE9YbCEsqAddDa5HK8L/view
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\file\d\1r3vEVXC02LfCZjE9YbCEsqAddDa5HK8L\view.html
+Content Type: text/html
+
+Uri: https://akashvarun.com/assets/img/portfolio/8.png
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\img\portfolio\8.png
+Content Type: image/png
+
+Uri: https://www.coursera.org/account/accomplishments/specialization/certificate/KQE5WWJ28LZ2
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\account\accomplishments\specialization\certificate\KQE5WWJ28LZ2.html
+Content Type: text/html
+
+Uri: https://akashvarun.com/assets/img/portfolio/b1.jpg
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\img\portfolio\b1.jpg
+Content Type: image/jpeg
+
+Uri: https://medium.com/analytics-vidhya/artificial-intelligence-aef3b8c01d21
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\analytics-vidhya\artificial-intelligence-aef3b8c01d21.html
+Content Type: text/html
+
+Uri: https://akashvarun.com/assets/img/portfolio/b2.jpg
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\img\portfolio\b2.jpg
+Content Type: image/jpeg
+
+Uri: https://akashvarunp.medium.com/flask-e458cc70f2c4
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\flask-e458cc70f2c4.html
+Content Type: text/html
+
+Uri: https://github.com/Akash9varun/
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\Akash9varun\index.htm
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-6D9771DZM3
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://akashvarun.com/assets/img/profile-img.jpg
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\img\profile-img.jpg
+Content Type: image/jpeg
+
+Uri: https://akashvarun.com/assets/img/python.png
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\img\python.png
+Content Type: image/png
+
+Uri: https://akashvarun.com/assets/img/tf.jpg
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\img\tf.jpg
+Content Type: image/jpeg
+
+Uri: https://akashvarun.com/assets/img/pytorch.png
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\img\pytorch.png
+Content Type: image/png
+
+Uri: https://akashvarun.com/assets/img/fastapi.png
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\img\fastapi.png
+Content Type: image/png
+
+Uri: https://akashvarun.com/assets/img/scikit.png
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\img\scikit.png
+Content Type: image/png
+
+Uri: https://akashvarun.com/assets/img/cv2.png
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\img\cv2.png
+Content Type: image/png
+
+Uri: https://akashvarun.com/assets/img/html.png
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\img\html.png
+Content Type: image/png
+
+Uri: https://akashvarun.com/assets/img/git.png
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\img\git.png
+Content Type: image/png
+
+Uri: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3890.3155047555297!2d80.0417706142924!3d12.82287739095358!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52f76cc323299b:0x608eb4f13a34893b!2sSRM University Kattankulathur!5e0!3m2!1sen!2sin!4v1622562961378!5m2!1sen!2sin
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\maps\embed.html
+Content Type: text/html
+
+Uri: https://akashvarun.com/assets/vendor/jquery/jquery.min.js
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\vendor\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://akashvarun.com/assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\vendor\bootstrap\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://akashvarun.com/assets/vendor/jquery.easing/jquery.easing.min.js
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\vendor\jquery.easing\jquery.easing.min.js
+Content Type: application/javascript
+
+Uri: https://akashvarun.com/assets/vendor/php-email-form/validate.js
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\vendor\php-email-form\validate.js
+Content Type: application/javascript
+
+Uri: https://akashvarun.com/assets/vendor/waypoints/jquery.waypoints.min.js
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\vendor\waypoints\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://akashvarun.com/assets/vendor/counterup/counterup.min.js
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\vendor\counterup\counterup.min.js
+Content Type: application/javascript
+
+Uri: https://akashvarun.com/assets/vendor/isotope-layout/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\vendor\isotope-layout\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://akashvarun.com/assets/vendor/venobox/venobox.min.js
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\vendor\venobox\venobox.min.js
+Content Type: application/javascript
+
+Uri: https://akashvarun.com/assets/vendor/owl.carousel/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\vendor\owl.carousel\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://akashvarun.com/assets/vendor/typed.js/typed.min.js
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\vendor\typed.js\typed.min.js
+Content Type: application/javascript
+
+Uri: https://akashvarun.com/assets/vendor/aos/aos.js
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\vendor\aos\aos.js
+Content Type: application/javascript
+
+Uri: https://akashvarun.com/assets/js/main.js
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://akashvarun.com/assets/vendor/icofont/fonts/icofont.woff2
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\vendor\icofont\fonts\icofont.woff2
+Content Type: 
+
+Uri: https://akashvarun.com/assets/vendor/icofont/fonts/icofont.woff
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\vendor\icofont\fonts\icofont.woff
+Content Type: application/font-woff
+
+Uri: https://akashvarun.com/assets/vendor/boxicons/fonts/boxicons.eot
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\vendor\boxicons\fonts\boxicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://akashvarun.com/assets/vendor/boxicons/fonts/boxicons.woff2
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\vendor\boxicons\fonts\boxicons.woff2
+Content Type: 
+
+Uri: https://akashvarun.com/assets/vendor/boxicons/fonts/boxicons.woff
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\vendor\boxicons\fonts\boxicons.woff
+Content Type: application/font-woff
+
+Uri: https://akashvarun.com/assets/vendor/boxicons/fonts/boxicons.ttf
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\vendor\boxicons\fonts\boxicons.ttf
+Content Type: application/font-sfnt
+
+Uri: https://akashvarun.com/assets/vendor/boxicons/fonts/boxicons.svg?
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\vendor\boxicons\fonts\boxicons.svg
+Content Type: image/svg+xml
+
+Uri: https://akashvarun.com/assets/vendor/owl.carousel/assets/owl.video.play.png
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\vendor\owl.carousel\assets\owl.video.play.png
+Content Type: image/png
+
+Uri: https://akashvarun.com/assets/img/hero-bg.jpg
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\assets\img\hero-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://github.com/Akash9varun/Face-Recognition
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\Akash9varun\Face-Recognition.html
+Content Type: text/html
+
+Uri: https://github.com/Akash9varun/World-Happiness-Report-2020
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\Akash9varun\World-Happiness-Report-2020.html
+Content Type: text/html
+
+Uri: https://github.com/Akash9varun/Proctor-Computer-Vision-Models
+File Name: C:\Downloaded Web Sites\saitej\akashvarun.com\Akash9varun\Proctor-Computer-Vision-Models.html
+Content Type: text/html
+
